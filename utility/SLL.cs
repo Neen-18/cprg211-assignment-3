@@ -1,5 +1,4 @@
-﻿using Assignment_3_skeleton;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -8,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Assignment_3_skeleton
 {
+    [Serializable]
     public class SLL : LinkedListADT
     {
         Node head;
@@ -23,6 +23,7 @@ namespace Assignment_3_skeleton
             Head = Tail = null;
             size = 0;
         }
+        //Adds to the end of the list.
         public void Append(object data)
         {
             Node newNode = new Node(data);
@@ -40,14 +41,13 @@ namespace Assignment_3_skeleton
         //Clear all items in the linked list.
         public void Clear()
         {
-            //throw new NotImplementedException();
             Head = Tail = null;
             size = 0;
         }
-
+       
         public bool Contains(object data)
         {
-            //throw new NotImplementedException();
+            
             for (Node tempNode = Head; tempNode != null; tempNode = tempNode.Succesor)
             {
                 if (tempNode.Element.Equals(data))
@@ -85,7 +85,6 @@ namespace Assignment_3_skeleton
         //Get the index of an item in the linked list.
         public int IndexOf(object data)
         {
-            //throw new NotImplementedException();
             int idx = 0;
             for (Node tempNode = head; tempNode != null; tempNode = tempNode.Succesor, idx++)
             {
@@ -100,7 +99,6 @@ namespace Assignment_3_skeleton
         //Insert an item at a specific index in the linked list.
         public void Insert(object data, int index)
         {
-            //throw new NotImplementedException();
             if (index < 0 || index > size - 1)
             {
                 throw new IndexOutOfRangeException();
@@ -129,13 +127,11 @@ namespace Assignment_3_skeleton
         //Check if the linked list has an item
         public bool IsEmpty()
         {
-            //throw new NotImplementedException();
             return head == null;
         }
-
+        //Adds to the beginning of the list.
         public void Prepend(object data)
         {
-            //throw new NotImplementedException();
             head = new Node(data, head);
             if (tail == null)
             {
@@ -146,7 +142,6 @@ namespace Assignment_3_skeleton
         //Replace an item in the linked list
         public void Replace(object data, int index)
         {
-            //throw new NotImplementedException();
             if (index < 0 || index > size - 1)
             {
                 throw new IndexOutOfRangeException();

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment_3_skeleton
 {
+    [Serializable]
     public class Node
     {
         object element; //Data

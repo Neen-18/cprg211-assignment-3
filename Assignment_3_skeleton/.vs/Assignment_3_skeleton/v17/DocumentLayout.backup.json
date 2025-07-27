@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\uyen1\\downloads\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\uyen1\\downloads\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\problemdomain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:problemdomain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\uyen1\\downloads\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\utility\\linkedlistadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:utility\\linkedlistadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|c:\\users\\uyen1\\downloads\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477EA49-2453-4D52-9307-D331DF76FF8D}|..\\Test_Assignment_3_1\\Test_Assignment_3_1.csproj|c:\\users\\uyen1\\downloads\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\test_assignment_3_1\\linkedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477EA49-2453-4D52-9307-D331DF76FF8D}|..\\Test_Assignment_3_1\\Test_Assignment_3_1.csproj|c:\\users\\uyen1\\downloads\\assignment_3_skeleton\\assignment_3_skeleton\\assignment_3_skeleton\\test_assignment_3_1\\serializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment_3_skeleton.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1431099526:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:542752619:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33738460:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\SerializationHelper.cs",
+              "RelativeDocumentMoniker": "SerializationHelper.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\SerializationHelper.cs",
+              "RelativeToolTip": "SerializationHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T21:05:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedListADT.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\LinkedListADT.cs",
+              "RelativeDocumentMoniker": "utility\\LinkedListADT.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\LinkedListADT.cs",
+              "RelativeToolTip": "utility\\LinkedListADT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T21:05:15.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SLL.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\SLL.cs",
+              "RelativeDocumentMoniker": "utility\\SLL.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\SLL.cs",
+              "RelativeToolTip": "utility\\SLL.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAUwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T21:05:03.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\problemdomain\\User.cs",
+              "RelativeDocumentMoniker": "problemdomain\\User.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\problemdomain\\User.cs",
+              "RelativeToolTip": "problemdomain\\User.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:53:01.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\Node.cs",
+              "RelativeDocumentMoniker": "utility\\Node.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\utility\\Node.cs",
+              "RelativeToolTip": "utility\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:52:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerializationTests.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Test_Assignment_3_1\\SerializationTests.cs",
+              "RelativeDocumentMoniker": "..\\Test_Assignment_3_1\\SerializationTests.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Test_Assignment_3_1\\SerializationTests.cs",
+              "RelativeToolTip": "..\\Test_Assignment_3_1\\SerializationTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:50:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-27T20:46:57.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkedListTests.cs",
+              "DocumentMoniker": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Test_Assignment_3_1\\LinkedListTests.cs",
+              "RelativeDocumentMoniker": "..\\Test_Assignment_3_1\\LinkedListTests.cs",
+              "ToolTip": "C:\\Users\\uyen1\\Downloads\\Assignment_3_skeleton\\Assignment_3_skeleton\\Assignment_3_skeleton\\Test_Assignment_3_1\\LinkedListTests.cs",
+              "RelativeToolTip": "..\\Test_Assignment_3_1\\LinkedListTests.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAADwv/IAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:46:38.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
